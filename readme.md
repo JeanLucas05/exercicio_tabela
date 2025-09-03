@@ -1,4 +1,4 @@
-## Heyo Everyone , welcome by git guide!
+## Welcome to git!
 
-- Yp , Jhon is here . 
+- This is comming from 'dev-jean' The GOAT.
 - I am adding this from 'branch'.
